@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Creational/Abstract Factory/src"/>
+	<classpathentry kind="src" path="Creational/Builder/src"/>
+	<classpathentry kind="src" path="Creational/Prototype/src"/>
+	<classpathentry kind="src" path="Creational/Singlton/src"/>
+	<classpathentry kind="src" path="Structural/Bridge/src"/>
+	<classpathentry kind="src" path="Structural/Composite/src"/>
+	<classpathentry kind="src" path="Structural/Proxy/src"/>
+	<classpathentry kind="src" path="Behavioral/ChainOfResponsibility/src"/>
+	<classpathentry kind="src" path="Behavioral/Strategy/src"/>
+	<classpathentry kind="src" path="Behavioral/TemplateMethod/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
